@@ -8,7 +8,7 @@
 */
 
 /*My formatting*/
-content {
+div.content {
 	font-size: 10px !important;
 }
 
@@ -3334,3 +3334,7 @@ input, select, textarea {
 			}
 
 		}
+
+	section.basics p { margin: 0;
+
+	}
