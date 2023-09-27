@@ -36,6 +36,11 @@ section.snippet {
 	font-family: serif;
 }
 
+section.snippet p {
+	line-height: 1.5; 
+	margin-bottom: 15px;  
+}
+
 /*I've got most of the images smaller (excluding caraval, legendary, cemetery, & sunbearer) but now I have a bunch of white space around them and I don't know how to fix that. The images do fit the small phone view, but not the wider computer view*/
 span.image.main img {
 	object-fit:scale-down;
