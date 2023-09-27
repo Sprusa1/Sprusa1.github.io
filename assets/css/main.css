@@ -28,10 +28,11 @@ section.snippet {
 	font-family: serif;
 }
 
-/*Need help getting the images smaller so they don't take up so much of the page*/
-.image main img {
-	width: 50% !important;
-	height: 50% !important;
+/*I've got most of the images smaller (excluding caraval, legendary, cemetery, & sunbearer) but now I have a bunch of white space around them and I don't know how to fix that*/
+span.image.main img {
+	object-fit:scale-down;
+	margin: 0;
+	padding: 0;
 }
 
 /*Formatting from template*/
