@@ -8,10 +8,31 @@
 */
 
 /*My formatting*/
+/*Needs to be resized now I got it to work*/
 div.content {
 	font-size: 10px !important;
 }
 
+section.basics p { 
+	margin: 0;
+
+}
+
+/*I can't figure out how to fix this right now
+section.update, review, edit h2 {
+	margin: 0;
+}*/
+
+section.snippet {
+	background-color: lightcyan;
+	font-family: serif;
+}
+
+/*Need help getting the images smaller so they don't take up so much of the page*/
+.image main img {
+	width: 50% !important;
+	height: 50% !important;
+}
 
 /*Formatting from template*/
 html, body, div, span, applet, object,
@@ -3334,7 +3355,3 @@ input, select, textarea {
 			}
 
 		}
-
-	section.basics p { margin: 0;
-
-	}
