@@ -18,23 +18,40 @@ section.basics p {
 
 }
 
-/*I can't figure out how to fix this right now
-section.update, review, edit h2 {
-	margin: 0;
-}*/
+/*I can't figure out how to fix this right now*/
+section.review h2 {
+	margin-top: 35px !important;
+}
+
+section.update h2 {
+	margin-top: 35px !important;
+}
+
+section.edit h2 {
+	margin-top: 35px !important;
+}
 
 section.snippet {
 	background-color: lightcyan;
 	font-family: serif;
 }
 
-/*I've got most of the images smaller (excluding caraval, legendary, cemetery, & sunbearer) but now I have a bunch of white space around them and I don't know how to fix that*/
+/*I've got most of the images smaller (excluding caraval, legendary, cemetery, & sunbearer) but now I have a bunch of white space around them and I don't know how to fix that. The images do fit the small phone view, but not the wider computer view*/
 span.image.main img {
 	object-fit:scale-down;
 	margin: 0;
 	padding: 0;
+	line-height: 0;
 }
 
+.star {
+	max-width: 20px; 
+	object-position: bottom;
+}
+
+.star-link {
+	font-size:xx-small;
+}
 /*Formatting from template*/
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2601,7 +2618,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
