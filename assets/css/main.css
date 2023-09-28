@@ -18,32 +18,38 @@ section.basics p {
 }
 
 section.review h2 {
-	margin-bottom: 0px;
 	padding-top: 35px;
+	padding-left: 15px;
+	margin-bottom: 0px;
 }
 
 section.review p {
 	padding-bottom: 15px;
+	padding-left: 15px;
 	margin-bottom: 0px;
 }
 
 section.update h2 {
 	padding-top: 35px;
+	padding-left: 15px;
 	margin-bottom: 0px;
 }
 
 section.update p {
 	padding-bottom: 15px;
+	padding-left: 15px;
 	margin-bottom: 0px;
 }
 
 section.edit h2 {
 	padding-top: 35px;
+	padding-left: 15px;
 	margin-bottom: 0px;
 }
 
 section.edit p {
 	padding-bottom: 15px;
+	padding-left: 15px;
 	margin-bottom: 0px;
 }
 
@@ -59,7 +65,12 @@ section.snippet p {
 
 /*Background colors for the reviews*/
 .inheritance {
-	background-color: #92d1a7 !important;
+	background-color: #92d1a7;
+}
+
+.cemetery {
+	background-color: #700727;
+	color: #E4AC45;
 }
 
 details.trigger.warning {
