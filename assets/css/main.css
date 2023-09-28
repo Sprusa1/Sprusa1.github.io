@@ -42,6 +42,22 @@ section.snippet p {
 	margin-bottom: 15px;  
 }
 
+details.trigger.warning {
+	background-color: #585858;
+	color: white; 
+	text-decoration: capitalize; 
+	border-width: 3px;
+	border-style: solid; 
+	padding-left: 95px;
+}
+
+/*Can't get the paragraphs to align left*/
+details.trigger.warning p {
+	text-align:left !important;
+	padding-left: 0px !important;
+}
+
+/*My images*/
 /*I've got most of the images smaller (excluding caraval, legendary, cemetery, & sunbearer) but now I have a bunch of white space around them and I don't know how to fix that. The images do fit the small phone view, but not the wider computer view*/
 span.image.main img {
 	object-fit:scale-down;
@@ -58,6 +74,8 @@ span.image.main img {
 .star-link {
 	font-size:xx-small;
 }
+
+
 /*Formatting from template*/
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
