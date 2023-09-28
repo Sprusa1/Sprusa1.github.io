@@ -132,6 +132,11 @@ section.snippet p {
 	border-style: solid;
 }
 
+.legendary {
+	background-color: #02B5B0;
+	color: white;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
