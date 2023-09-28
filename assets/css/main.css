@@ -116,6 +116,10 @@ section.snippet p {
 	color: black;
 }
 
+.halloween {
+	background-color: #FBD69E;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
