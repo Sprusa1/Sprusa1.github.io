@@ -111,6 +111,11 @@ section.snippet p {
 	color: white;
 }
 
+.hide {
+	background-color: #A83423;
+	color: black;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
