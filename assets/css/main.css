@@ -64,7 +64,8 @@ section.snippet {
 
 section.snippet p {
 	line-height: 1.5; 
-	margin-bottom: 15px;  
+	margin-bottom: 15px; 
+	margin-left: 15px; 
 }
 
 /*Background colors for the reviews*/
@@ -165,6 +166,7 @@ details.trigger.warning {
 details.trigger.warning p {
 	text-align:left !important;
 	padding-left: 0px !important;
+	margin-left: 15px;
 }
 
 /*My images*/
