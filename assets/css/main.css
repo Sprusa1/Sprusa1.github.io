@@ -56,6 +56,10 @@ section.edit p {
 section.snippet {
 	background-color: lightcyan;
 	font-family: serif;
+	padding-top: 15px;
+	border-width: 1px;
+	border-color:#333333;
+	border-style: solid;
 }
 
 section.snippet p {
@@ -71,6 +75,10 @@ section.snippet p {
 .cemetery {
 	background-color: #700727;
 	color: #E4AC45;
+}
+
+.cerulean {
+	background-color: #f4dfc0;
 }
 
 details.trigger.warning {
