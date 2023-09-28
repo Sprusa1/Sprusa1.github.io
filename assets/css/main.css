@@ -81,6 +81,10 @@ section.snippet p {
 	background-color: #f4dfc0;
 }
 
+.rwrb {
+	background-color: #9dd3d4;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
