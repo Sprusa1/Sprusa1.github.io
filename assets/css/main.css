@@ -19,14 +19,17 @@ section.basics p {
 
 section.review h2 {
 	margin-top: 35px !important;
+	margin-bottom: 15px !important;
 }
 
 section.update h2 {
 	margin-top: 35px !important;
+	margin-bottom: 15px !important;
 }
 
 section.edit h2 {
 	margin-top: 35px !important;
+	margin-bottom: 15px !important;
 }
 
 section.snippet {
