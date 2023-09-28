@@ -98,6 +98,10 @@ section.snippet p {
 	color: #F5F3E2;
 }
 
+.neverwoods {
+	background-color: #D9A5EF;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
