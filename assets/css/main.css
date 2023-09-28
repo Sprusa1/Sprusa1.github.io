@@ -18,18 +18,33 @@ section.basics p {
 }
 
 section.review h2 {
-	margin-top: 35px !important;
-	margin-bottom: 15px !important;
+	margin-bottom: 0px;
+	padding-top: 35px;
+}
+
+section.review p {
+	padding-bottom: 15px;
+	margin-bottom: 0px;
 }
 
 section.update h2 {
-	margin-top: 35px !important;
-	margin-bottom: 15px !important;
+	padding-top: 35px;
+	margin-bottom: 0px;
+}
+
+section.update p {
+	padding-bottom: 15px;
+	margin-bottom: 0px;
 }
 
 section.edit h2 {
-	margin-top: 35px !important;
-	margin-bottom: 15px !important;
+	padding-top: 35px;
+	margin-bottom: 0px;
+}
+
+section.edit p {
+	padding-bottom: 15px;
+	margin-bottom: 0px;
 }
 
 section.snippet {
@@ -42,13 +57,18 @@ section.snippet p {
 	margin-bottom: 15px;  
 }
 
+/*Background colors for the reviews*/
+.inheritance {
+	background-color: #92d1a7 !important;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
 	text-decoration: capitalize; 
 	border-width: 3px;
 	border-style: solid; 
-	padding-left: 95px;
+	text-align: center;
 }
 
 /*Can't get the paragraphs to align left*/
