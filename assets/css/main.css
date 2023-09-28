@@ -137,6 +137,11 @@ section.snippet p {
 	color: white;
 }
 
+.red {
+	background-color: #CA756D; 
+	color: white;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
