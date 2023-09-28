@@ -85,6 +85,10 @@ section.snippet p {
 	background-color: #9dd3d4;
 }
 
+.whispering {
+	background-color: #ededbf;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
