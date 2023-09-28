@@ -147,6 +147,11 @@ section.snippet p {
 	color: #516D60; 
 }
 
+.sadie {
+	background-color: #B42F2A;
+	color: white; 
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
