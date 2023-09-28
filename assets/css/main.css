@@ -93,6 +93,11 @@ section.snippet p {
 	background-color: #71c7ac;
 }
 
+.katz {
+	background-color: #c75975;
+	color: #F5F3E2;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
