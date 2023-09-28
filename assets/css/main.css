@@ -124,6 +124,14 @@ section.snippet p {
 	background-color: #E9BF84;
 }
 
+.caraval {
+	background-color: #23a7cc;
+	color: white;
+	border-color: #23a7cc;
+	border-width: 3px; 
+	border-style: solid;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
