@@ -139,7 +139,12 @@ section.snippet p {
 
 .red {
 	background-color: #CA756D; 
-	color: white;
+	color: #516D60;
+}
+
+.sacrifice {
+	background-color: #C67EB2; 
+	color: 
 }
 
 details.trigger.warning {
