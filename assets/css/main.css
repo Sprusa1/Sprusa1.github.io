@@ -120,6 +120,10 @@ section.snippet p {
 	background-color: #FBD69E;
 }
 
+.artificial {
+	background-color: #E9BF84;
+}
+
 details.trigger.warning {
 	background-color: #585858;
 	color: white; 
