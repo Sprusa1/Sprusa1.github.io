@@ -9,12 +9,12 @@
 
 /*My formatting*/
 h1 {
-	color: black;
 	font-family: serif !important; 
 }
 
 div.content {
 	font-size: 20px !important;
+	font-family: serif !important; 
 }
 
 section.basics p { 
@@ -189,6 +189,11 @@ section.snippet-2 p {
 .sadie {
 	background-color: #AC1611;
 	color: white; 
+}
+
+summary {
+	color: black !important;
+	font-family: serif; 
 }
 
 details.trigger.warning {
@@ -2573,11 +2578,12 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.main {
+		/*Causes weird formatting and spacing for my images
+			.image.main {
 			display: block;
 			margin: 0 0 3em 0;
 			width: 100%;
-		}
+		}*/
 
 			.image.main img {
 				width: 100%;
