@@ -8,53 +8,66 @@
 */
 
 /*My formatting*/
+h1 {
+	color: black;
+	font-family: serif !important; 
+}
+
 div.content {
 	font-size: 20px !important;
 }
 
 section.basics p { 
 	margin: 0;
-
+	color: black;
+	font-family: serif; 
 }
 
 section.review h2 {
 	padding-top: 35px;
 	padding-left: 15px;
 	margin-bottom: 0px;
+	font-family: serif; 
 }
 
 section.review p {
 	padding-bottom: 15px;
 	padding-left: 15px;
 	margin-bottom: 0px;
+	font-family: serif; 
 }
 
 section.update h2 {
 	padding-top: 35px;
 	padding-left: 15px;
 	margin-bottom: 0px;
+	font-family: serif; 
 }
 
 section.update p {
 	padding-bottom: 15px;
 	padding-left: 15px;
 	margin-bottom: 0px;
+	font-family: serif;
 }
 
 section.edit h2 {
 	padding-top: 35px;
 	padding-left: 15px;
 	margin-bottom: 0px;
+	font-family: serif; 
 }
 
 section.edit p {
 	padding-bottom: 15px;
 	padding-left: 15px;
 	margin-bottom: 0px;
+	font-family: serif; 
 }
 
 section.snippet {
 	background-color: lightcyan;
+	color: black; 
 	font-family: serif;
 	padding-top: 15px;
 	border-width: 1px;
@@ -70,6 +83,7 @@ section.snippet p {
 
 section.snippet-2 {
 	background-color: lightyellow;
+	color: black;
 	font-family: serif;
 	padding-top: 15px;
 	border-width: 1px;
@@ -86,6 +100,7 @@ section.snippet-2 p {
 /*Background colors for the reviews*/
 .inheritance {
 	background-color: #92d1a7;
+	color: black; 
 }
 
 .cemetery {
@@ -95,54 +110,62 @@ section.snippet-2 p {
 
 .cerulean {
 	background-color: #f4dfc0;
+	color: black; 
 }
 
 .rwrb {
 	background-color: #9dd3d4;
+	color: black; 
 }
 
 .whispering {
 	background-color: #ededbf;
+	color: black; 
 }
 
 .sunbearer {
 	background-color: #71c7ac;
+	color: black; 
 }
 
 .katz {
-	background-color: #c75975;
-	color: #F5F3E2;
+	background-color: #00B0E4;
+	color: black;
 }
 
 .neverwoods {
 	background-color: #D9A5EF;
+	color: black; 
 }
 
 .girl {
 	background-color: #E89B7C;
+	color: black; 
 }
 
 .rot {
-	background-color: #147072;
+	background-color: #075455;
 	color: white;
 }
 
 .hide {
-	background-color: #A83423;
+	background-color: #DD9388;
 	color: black;
 }
 
 .halloween {
 	background-color: #FBD69E;
+	color: black; 
 }
 
 .artificial {
 	background-color: #E9BF84;
+	color: black; 
 }
 
 .caraval {
 	background-color: #23a7cc;
-	color: white;
+	color: black;
 	border-color: #23a7cc;
 	border-width: 3px; 
 	border-style: solid;
@@ -150,21 +173,21 @@ section.snippet-2 p {
 
 .legendary {
 	background-color: #02B5B0;
-	color: white;
+	color: black;
 }
 
 .red {
-	background-color: #CA756D; 
-	color: white;
+	background-color: #D28F89; 
+	color: black;
 }
 
 .sacrifice {
 	background-color: #C67EB2; 
-	color: #516D60; 
+	color: black; 
 }
 
 .sadie {
-	background-color: #B42F2A;
+	background-color: #AC1611;
 	color: white; 
 }
 
@@ -200,6 +223,7 @@ span.image.main img {
 
 .star-link {
 	font-size:xx-small;
+	color: black;
 }
 
 
