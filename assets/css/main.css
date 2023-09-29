@@ -68,6 +68,21 @@ section.snippet p {
 	margin-left: 15px; 
 }
 
+section.snippet-2 {
+	background-color: lightyellow;
+	font-family: serif;
+	padding-top: 15px;
+	border-width: 1px;
+	border-color:#333333;
+	border-style: solid;
+}
+
+section.snippet-2 p {
+	line-height: 1.5; 
+	margin-bottom: 15px; 
+	margin-left: 15px; 
+}
+
 /*Background colors for the reviews*/
 .inheritance {
 	background-color: #92d1a7;
