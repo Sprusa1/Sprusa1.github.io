@@ -193,8 +193,14 @@ section.snippet-2 p {
 
 summary {
 	color: black !important;
-	font-family: serif; 
+	font-family: serif !important; 
 }
+
+summary.trigger.warning {
+	color: white !important; 
+}
+
+
 
 details.trigger.warning {
 	background-color: #585858;
@@ -205,7 +211,6 @@ details.trigger.warning {
 	text-align: center;
 }
 
-/*Can't get the paragraphs to align left*/
 details.trigger.warning p {
 	text-align:left !important;
 	padding-left: 0px !important;
@@ -219,6 +224,7 @@ span.image.main img {
 	margin: 0;
 	padding: 0;
 	line-height: 0;
+	object-position: center; 
 }
 
 .star {
