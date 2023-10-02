@@ -218,13 +218,14 @@ details.trigger.warning p {
 }
 
 /*My images*/
-/*I've got most of the images smaller (excluding caraval, legendary, cemetery, & sunbearer) but now I have a bunch of white space around them and I don't know how to fix that. The images do fit the small phone view, but not the wider computer view*/
-span.image.main img {
-	object-fit:scale-down;
-	margin: 0;
-	padding: 0;
-	line-height: 0;
-	object-position: center; 
+/*Use medium sizing of images.*/
+div.image.main {
+	 display: flex;
+	 justify-content: center
+}
+
+div.image.main img {
+	width: 35%;
 }
 
 .star {
