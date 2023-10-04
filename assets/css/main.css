@@ -224,10 +224,6 @@ div.image.main {
 	 justify-content: center
 }
 
-div.image.main img {
-	width: 35%;
-}
-
 .star {
 	max-width: 20px; 
 	object-position: bottom;
