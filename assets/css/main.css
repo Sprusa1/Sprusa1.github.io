@@ -8,6 +8,10 @@
 */
 
 /*My formatting*/
+h1.index {
+	font-family: "Source Sans Pro", Helvetica, sans-serif !important;
+}
+
 h1 {
 	font-family: serif !important; 
 }
@@ -218,7 +222,6 @@ details.trigger.warning p {
 }
 
 /*My images*/
-/*Use medium sizing of images.*/
 div.image.main {
 	 display: flex;
 	 justify-content: center
@@ -229,6 +232,7 @@ div.image.main {
 	object-position: bottom;
 }
 
+/*Used for the links to all of icons I used, not just the star. However, I didn't want to change the classification for every image, so it stayed as star-link from when that was the only icon I used.*/
 .star-link {
 	font-size:xx-small;
 	color: black;
