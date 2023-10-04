@@ -16,6 +16,10 @@ h1 {
 	font-family: serif !important; 
 }
 
+ul {
+	list-style: none !important; 
+}
+
 div.content {
 	font-size: 20px !important;
 	font-family: serif !important; 
@@ -69,6 +73,8 @@ section.edit p {
 	font-family: serif; 
 }
 
+
+/*Snippets -- the quotes I pulled from some of the books*/
 section.snippet {
 	background-color: lightcyan;
 	color: black; 
@@ -195,18 +201,18 @@ section.snippet-2 p {
 	color: white; 
 }
 
+
+/*Content Warnings -- detail and summary tags*/
 summary {
 	color: black;
 	font-family: serif !important; 
 }
 
-summary.trigger.warning {
+summary.content.warning {
 	color: white !important; 
 }
 
-
-
-details.trigger.warning {
+details.content.warning {
 	background-color: #585858;
 	color: white; 
 	text-decoration: capitalize; 
@@ -215,7 +221,7 @@ details.trigger.warning {
 	text-align: center;
 }
 
-details.trigger.warning p {
+details.content.warning p {
 	text-align:left !important;
 	padding-left: 0px !important;
 	margin-left: 15px;
