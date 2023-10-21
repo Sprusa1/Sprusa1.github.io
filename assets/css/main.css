@@ -17,6 +17,12 @@ h1 {
 }
 
 ul {
+	font-family: serif !important;
+	padding-left: 15px;
+	margin-bottom: 0px;
+}
+
+.archive {
 	list-style: none !important; 
 }
 
