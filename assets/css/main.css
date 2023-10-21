@@ -16,12 +16,6 @@ h1 {
 	font-family: serif !important; 
 }
 
-ul {
-	font-family: serif !important;
-	padding-left: 15px;
-	margin-bottom: 0px;
-}
-
 .archive {
 	list-style: none !important; 
 }
@@ -179,6 +173,11 @@ section.snippet-2 p {
 	color: black; 
 }
 
+.assistant {
+	background-color: #9F332D;
+	color: white;
+}
+
 .caraval {
 	background-color: #23a7cc;
 	color: black;
@@ -187,9 +186,29 @@ section.snippet-2 p {
 	border-style: solid;
 }
 
+.chemistry {
+	background-color: #0DA6E3; 
+	color: black;
+}
+
+.deliciousmonsters {
+	background-color: #385C59;
+	color: white; 
+}
+
+.knife {
+	background-color: #C6B272;
+	color: black;
+}
+
 .legendary {
 	background-color: #02B5B0;
 	color: black;
+}
+
+.mistermagic {
+	background-color: #81166C;
+	color: white; 
 }
 
 .red {
