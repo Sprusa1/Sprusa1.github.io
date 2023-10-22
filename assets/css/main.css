@@ -231,6 +231,10 @@ section.snippet-2 p {
 	color: white; 
 }
 
+.standing {
+	background-color: #61A0C2;
+	color: black;
+}
 
 /*Content Warnings -- detail and summary tags*/
 summary {
