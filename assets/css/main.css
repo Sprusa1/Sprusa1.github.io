@@ -236,6 +236,11 @@ section.snippet-2 p {
 	color: black;
 }
 
+.whatmovesdead {
+	background-color: #9B312C;
+	color: white; 
+}
+
 /*Content Warnings -- detail and summary tags*/
 summary {
 	color: black;
