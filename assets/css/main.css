@@ -107,7 +107,7 @@ section.snippet-2 p {
 	margin-left: 15px; 
 }
 
-/*Background colors for the reviews*/
+/*Background colors for the Main Reviews*/
 .inheritance {
 	background-color: #92d1a7;
 	color: black; 
@@ -168,6 +168,7 @@ section.snippet-2 p {
 	color: black; 
 }
 
+/*Background colors for the Archive Reviews*/
 .artificial {
 	background-color: #E9BF84;
 	color: black; 
@@ -214,6 +215,11 @@ section.snippet-2 p {
 .mistermagic {
 	background-color: #81166C;
 	color: white; 
+}
+
+.notsupposedtodie {
+	background-color: #F8F7BD;
+	color: black; 
 }
 
 .red {
