@@ -197,6 +197,11 @@ section.snippet-2 p {
 	color: white; 
 }
 
+.elatsoe {
+	background-color: #075064;
+	color: white; 
+}
+
 .feed {
 	background-color: #4D2158;
 	color: white;
@@ -250,6 +255,11 @@ section.snippet-2 p {
 .standing {
 	background-color: #61A0C2;
 	color: black;
+}
+
+.usher {
+	background-color: #142A4A;
+	color: white; 
 }
 
 .whatmovesdead {
