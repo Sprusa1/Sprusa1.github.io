@@ -217,6 +217,11 @@ section.snippet-2 p {
 	color: black;
 }
 
+.lefthimdead {
+	background-color: #A3242C;
+	color: white;
+}
+
 .legendary {
 	background-color: #02B5B0;
 	color: black;
@@ -230,6 +235,11 @@ section.snippet-2 p {
 .mistermagic {
 	background-color: #81166C;
 	color: white; 
+}
+
+.nevertell {
+	background-color: #E8B246;
+	color: black; 
 }
 
 .notsupposedtodie {
@@ -250,6 +260,11 @@ section.snippet-2 p {
 .sadie {
 	background-color: #AC1611;
 	color: white; 
+}
+
+.songbirds {
+	background-color: #EBA829;
+	color: black; 
 }
 
 .standing {
